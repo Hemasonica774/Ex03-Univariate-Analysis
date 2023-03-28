@@ -1,4 +1,7 @@
-# Aim:
+
+# Ex03-Univariate-Analysis
+
+## Aim:
 
 To read the given data and perform the univariate analysis with different types of plots.
 
@@ -8,7 +11,7 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 
 ## Algorithm:
 
-# Step1:
+##  Step1:
 
 Read the given data.
 
