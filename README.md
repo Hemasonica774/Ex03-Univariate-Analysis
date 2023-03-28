@@ -115,26 +115,34 @@ HISTROGRAM PLOT
 
 SKEW
 
-![image](https://user-images.githubusercontent.com/118361409/228321710-b9819f7a-ee8d-41cd-adef-94cd106b1e11.png)
+![image](https://user-images.githubusercontent.com/118361409/228323878-83077ce3-1078-4673-8b47-bf1267e1cfa0.png)
+
 
 BOXPLOT
 
+
 ![image](https://user-images.githubusercontent.com/118361409/228322798-2582a520-5007-4959-8776-5f0fbc3c6892.png)
 
+
 HISTROGRAM PLOT
+
 ![image](https://user-images.githubusercontent.com/118361409/228322937-6621c9fd-70b9-446e-a262-a487b293161f.png)
 
 
 DISTRIBUTION PLOT
 
+
 ![image](https://user-images.githubusercontent.com/118361409/228323061-a0a12943-5042-4948-9c40-38713cbe0e0f.png)
 
+
 KURTOSIS
+
 
 ![image](https://user-images.githubusercontent.com/118361409/228323252-4d53f757-e59f-4a13-a830-a8b5e4ee964e.png)
 
 
 BOX PLOT
+
 ![image](https://user-images.githubusercontent.com/118361409/228323356-9316bbe4-45b7-4849-b38b-bd5567e9cf15.png)
 
 
